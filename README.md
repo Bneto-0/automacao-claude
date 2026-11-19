@@ -1,0 +1,2 @@
+# automacao-claude
+claud project
